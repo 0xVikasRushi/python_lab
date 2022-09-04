@@ -10,6 +10,7 @@ rows  =int(input("Enter the number of rows : "))
 # * * *
 # * *
 # *
+#
 
 # Upper part
 for i in range(0,rows+1):
