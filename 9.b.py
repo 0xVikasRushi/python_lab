@@ -5,4 +5,3 @@ def whisper(text):
 def gre(text):
     shout(text)
     whisper(text)
-    #

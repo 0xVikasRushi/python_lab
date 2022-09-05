@@ -10,4 +10,3 @@ test = (f,f2,f3)
 for i in test:
     print(i)
     f4(i)
-    #

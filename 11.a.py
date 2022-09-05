@@ -6,4 +6,4 @@ for i in range(0,4):
     print(list[i],end=' ')
     print('of',end=' ')
     print(num)
-#
+
